@@ -1,5 +1,5 @@
 {
-    "name": "anfa/vk-auth",
+    "name": "acterosnull/vk-auth",
     "type": "library",
     "description": "tiny lib to get vk auth cookie (remixsid) using valid mobile phone number and password",
     "keywords": ["vkontakte", "vk", "authorization", "remixsid"],
